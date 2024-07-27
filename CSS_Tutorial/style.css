@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 10vh;
+    height:110vw;
+    background-color: blueviolet;
+}
+
+section{
+    width: 50%;
+    height:500px;
+    background-color: brown;
+}
+p{
+    font-size: 10em;
+}

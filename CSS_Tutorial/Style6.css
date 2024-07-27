@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* input:nth-child(){
+    background:red;
+    width: 400px;
+} */
+
+
+/* tr:nth-child(odd){
+    background:blue(227,226,255);
+}
+tr:nth-child(even){
+    background:skyblue(128,0,1);
+} */
+/* 
+input:required{
+    background: green(225,226,255);
+
+}
+span{
+    color: brown;
+} */
+/* 
+section>p::first-letter{
+    font-size: 100px;
+    color: brown;
+    background: color #000;;
+} */
+
+/* p::first-line{
+    background:red;
+} */
+
+/* p::before{
+    content:"some content";
+} */
+
+/* p::after{
+    content:"some conten";
+} */
+
+
+/* section{
+    padding: 30px;
+}
+li::marker{
+    content:"🚀"
+} */
+
+/* [title$="nitish"]{
+    background: red;
+} */
+
+/* [title|="im-nitish"]{
+    background: red;
+} */
+
+[title~="shuvam"]{
+background: red;
+}
+

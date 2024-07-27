@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ExtraBackgroundProp.css">
+</head>
+<style>
+    body {
+      background-color: #e0f7fa; /* Light cyan background color */
+    }
+
+    header {
+      background-image: url('header-bg.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 200px;
+    }
+
+    section {
+      background-color: #ffffff; /* White background color */
+      background-image: url('section-bg.jpg');
+      background-position: top right;
+      background-repeat: no-repeat;
+      background-size: contain;
+      padding: 20px;
+    }
+
+    footer {
+      background: #0044cc url('footer-pattern.png') repeat center/auto;
+      /* Shorthand:
+      background-color: #0044cc;
+      background-image: url('footer-pattern.png');
+      background-repeat: repeat;
+      background-position: center;
+      background-size: auto;
+      */
+      height: 100px;
+    }
+  </style>
+<title>Background Properties Example</title>
+
+<body>
+    <header></header>
+    <section>
+      <p>This is a section with a background image.</p>
+    </section>
+    <footer></footer>  
+</body>
+</html>

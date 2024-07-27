@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border;
+}
+/* p+p{ */
+p{
+    display: none;
+}
+button:hover+p{
+    color:blue;
+    background-color: brown;
+    display: block;
+    width: 100px;
+}

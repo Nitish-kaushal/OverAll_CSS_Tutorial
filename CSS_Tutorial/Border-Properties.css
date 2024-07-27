@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+/* div {
+    border-color: #ff0000; /* Red border color */
+
+    /* div {
+        border-width: 2px; /* 2 pixels border width */
+      
+
+/* div {
+  border-style: solid; /* Solid border style */
+
+
+  /* div {
+    border-radius: 10px; /* Rounded corners with 10px radius */
+  
+    /* div {
+        border: 2px solid #ff0000; /* 2px solid red border */
+      
+        /* div {
+            border-top: 2px solid #ff0000; /* Top border */
+            /* border-right: 4px dashed #00ff00; Right border
+            border-bottom: 6px double #0000ff; /* Bottom border */
+            /* border-left: 8px groove #ff00ff; Left border */ 
+          
+            div {
+                border-top-left-radius: 10px; /* Top-left corner radius */
+                border-top-right-radius: 20px; /* Top-right corner radius */
+                border-bottom-right-radius: 30px; /* Bottom-right corner radius */
+                border-bottom-left-radius: 40px; /* Bottom-left corner radius */
+            }
+
+
+      
+  
+
+  
